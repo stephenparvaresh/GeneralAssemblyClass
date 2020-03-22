@@ -10,6 +10,7 @@ I took this class to improve my data science skills. The projects included here 
 * Python coding exercises
 * Analyzing IMDb Data
 * Linear Regression and KNN - Train/Test Split
+* Capstone project Preliminary EDA
 * A capstone project in which I analyzed Instacart Market Basket data and created a model to predict what an individual would buy next based on their cart. 
 
 # File Descriptions
